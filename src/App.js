@@ -22,8 +22,16 @@ export default function App() {
           href="https://github.com/alinagoldfarb/react-final-project-weather-app"
           target="_blank"
           rel="noopener noreferrer"
-        >
+        > 
           open-sourced on GitHub
+        </a>{" "}
+        and hosted on Netlify{" "}
+        <a 
+          href="https://eloquent-entremet-9314bd.netlify.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          
         </a>{" "}
           </footer>
           
