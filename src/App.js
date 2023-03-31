@@ -15,8 +15,16 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Alina Goldfarb
-          </a>        
+          Alina Goldfarb    
+          </a>{" "}
+          and is{" "}
+          <a 
+          href="https://github.com/alinagoldfarb/react-final-project-weather-app"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          open-sourced on GitHub
+        </a>{" "}
           </footer>
           
       </div>
